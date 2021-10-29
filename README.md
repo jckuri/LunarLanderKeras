@@ -1,7 +1,4 @@
-# CS7642_Project2
-Project 2 of CS7642 Reinforcement Learning
-
-**Double Deep Q Network to control Lunar Lander**
+# Double Deep Q Network to control Lunar Lander
 
 <a href="https://youtu.be/1JGJoPK00nw" target="_blank">
  <img src="lunar_lander.png" alt="Lunar Lander DDQN" width="50%" height="50%" border="10" />
