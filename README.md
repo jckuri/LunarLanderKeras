@@ -38,4 +38,4 @@ python expert_lunar_lander.py
 ```
 This script executes the best Lunar Lander controller found so far which is stored in the file expertise.h5 (neural network file). This script executes a visual demo of 100 experiments and stores the results in the log file expertise.log.
 
-**NOTE:** The log files are in CSV format which can be read by OfficeLibre's Calc in order to generate the graphs in the REPORT.pdf.
+**NOTE:** The log files are in CSV format which can be read by OfficeLibre's Calc in order to generate the graphs of the report.
