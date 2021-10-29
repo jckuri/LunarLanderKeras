@@ -1,6 +1,6 @@
 # Double Deep Q Network to control Lunar Lander
 
-<a href="https://youtu.be/1JGJoPK00nw" target="_blank">
+<a href="https://youtu.be/0AeAW_yOP8c" target="_blank">
  <img src="lunar_lander.png" alt="Lunar Lander DDQN" width="50%" height="50%" border="10" />
  <br>
  CLICK TO SEE THE VIDEO: Lunar Lander DDQN
